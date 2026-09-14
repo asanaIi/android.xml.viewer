@@ -1,1 +1,7 @@
-{"name":"android.xml.viewer","author":"itsAsanali","language":"javascript","license":"none","encoding":"UTF-8"}
+{
+    "name": "android.xml.viewer",
+    "author": "asanaIi",
+    "language": "javascript",
+    "license": "none",
+    "encoding": "UTF-8"
+}
